@@ -1,0 +1,23 @@
+{
+  "name": "dialogflowwebhook",
+  "version": "1.0.0",
+  "description": "A webhook for Dialogflow to communicate to.",
+  "main": "start.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaxOn/DialogflowWebhook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaxOn/DialogflowWebhook/issues"
+  },
+  "homepage": "https://github.com/LaxOn/DialogflowWebhook#readme"
+}
