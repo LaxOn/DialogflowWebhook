@@ -1,1 +1,4 @@
 /node_modules
+/alice.crt
+/alice.pem
+
