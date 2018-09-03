@@ -1,3 +1,3 @@
 # DialogflowWebhook
 
-A webhook for Dialogflow to communicate to.
+A basic test webhook to communicate with Dialogflow.
